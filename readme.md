@@ -1,15 +1,22 @@
 # AZ-204: Developing solutions for Microsoft Azure
 
+**All of the lab instructions were updated on 10/15/2021.** We will be closing all currently open issues and PRs and encourage everyone to review the new instructions and then submit new changes going forward.
+
+> **Note**: There are new directions below for downloading the *allfiles.zip* The automated build process is offline.
+
 - **Direct students** to [https://aka.ms/az204labs](https://aka.ms/az204labs) for an easy-to-use list of lab instructions.
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
+- **[Download the AllFiles content](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/raw/master/Allfiles/allfiles-20220106.zip)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
+- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository 
+<!-- 
+
+- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**-->
 
 ## What are we doing?
 
 - To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
 
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
+- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. 
 
 ## How should I use these files relative to the released MOC files?
 
